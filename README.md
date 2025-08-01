@@ -58,6 +58,9 @@ Install these libraries via Arduino IDE Library Manager if not already installed
 - Check GPS fix before movement notifications.
 - Monitor serial output for debugging info.
 
+- ![WhatsApp Image 2025-08-01 at 08 49 41_ad0344ad](https://github.com/user-attachments/assets/24402634-63a1-4563-b1fc-3da7743b2469)
+
+
 ---
 
 *Feel free to contribute or raise issues!*
